@@ -1,4 +1,4 @@
-// import {nawaz} from "../assets/nawaz.png"
+
 
 const Hero = () => {
   return (
@@ -15,9 +15,9 @@ const Hero = () => {
             </span>
 
             <h1 className="text-5xl md:text-6xl font-extrabold text-white leading-tight">
-              Hi, I'm{"M-nawaz "}
-              <span className="text-blue-500">
-                Muhammad Nawaz
+              Hi, I'm
+              <span className="pl-2 text-blue-500">
+                 Muhammad Nawaz
               </span>
             </h1>
 
