@@ -1,3 +1,5 @@
+// import {nawaz} from "../assets/nawaz.png"
+
 const Hero = () => {
   return (
     <section
@@ -54,7 +56,7 @@ const Hero = () => {
               <div className="w-80 h-80 rounded-full bg-blue-600/20 absolute blur-3xl"></div>
 
               <img
-                src="/src/image/nawaz.png"
+                src="/nawaz.png"
                 alt="Muhammad Nawaz"
                 className="relative w-72 h-72 md:w-96 md:h-96 object-cover rounded-full border-4 border-blue-500 shadow-2xl"
               />
